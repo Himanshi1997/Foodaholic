@@ -1,0 +1,25 @@
+Adding title bar and naming webpage.
+
+//**code**//
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>FOODAHOLIC</title>
+        <link type="text/css" rel="stylesheet" href="bootstrap1/css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="newcss.css">
+       
+        <script type="text/javascript" src="bootstarp1/js/bootstrap.js">
+            </script>
+            <script type="text/javascript" src="bootstrap1/js/jquery-3.2.1.min.js"></script>
+            
+            
+            
+        </head>
+    <body>
+        <nav class="navbar navbar-inverse" style="margin-bottom: 0px">
+            <div class="container" >
+                    <div class="navbar-header">
+                        <div class="navbar-brand "><h2><b>FOODAHOLIC </b></h2>
+                    </div>
+                    </div>
